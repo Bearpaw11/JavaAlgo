@@ -15,6 +15,7 @@ public class LinkedListMain {
 		list.print();
 		list.deleteLast();
 		list.print();
+		
 	}
 
 }
