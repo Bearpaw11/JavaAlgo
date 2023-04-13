@@ -19,7 +19,7 @@ public class arrayListPractice {
 		System.out.println(NewIntList);
 		System.out.println(NewIntList.contains(500));
 		System.out.println(NewIntList.size());
-		
+
 	}
 
 }
